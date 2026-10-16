@@ -1,3 +1,6 @@
+<img width="712" height="804" alt="image" src="https://github.com/user-attachments/assets/91262412-9083-4a9d-a6f2-c631d18bff91" />
+
+
 # PS2 Disc Dumper v2.1
 
 Created by TrixR4PiGz
